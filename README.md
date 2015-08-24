@@ -1,7 +1,7 @@
 ### Game-2048
 This is a web game named 2048 that can be run on your own browser.You can download the codes and upload them to your own server on your computer, and you just need to tap on your up, down, left and right keyboard to control it. So easy, right?
 
-Here are the structure of the project:
+Here is the structure of the project:
 
 		1. index.html -- Web Home Page
 		2. main2048.js -- Game body with most important logics
