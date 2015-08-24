@@ -1,5 +1,6 @@
 /**
  * Created by 伟健 on 2014/8/20.
+ * Show number and move with animation, update scores
  */
 
 function showNumberWithAnimation( i , j , randNumber ){

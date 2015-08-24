@@ -1,5 +1,6 @@
 /**
  * Created by 伟健 on 2014/8/20.
+ * Game body with most important logics
  */
 
 var board = new Array();            //4*4格子的数据放在board变量里面

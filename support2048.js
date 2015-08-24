@@ -1,5 +1,6 @@
 /**
  * Created by 伟健 on 2014/8/20.
+ * Some support functions like get positions, get number background color, move with a direction and so on
  */
 
 documentWidth = window.screen.availWidth;
