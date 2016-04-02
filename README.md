@@ -1,5 +1,5 @@
 ### Game-2048
-This is a web game named 2048 that can be run on your own browser.You can download the codes and upload them to your own server on your computer, and you just need to tap on your up, down, left and right keyboard to control it. So easy, right?
+This is a simple web game named 2048 that can be run on your own browser.You can download the codes and upload them to your own server on your computer, and you just need to tap on your up, down, left and right keyboard to control it. So easy, right?
 
 Here is the structure of the project:
 
